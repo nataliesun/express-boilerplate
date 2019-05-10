@@ -8,7 +8,7 @@
     "dev": "nodemon src/server.js",
     "start": "node src/server.js",
     "predeploy": "npm audit",
-    "deploye": "git push heroku master"
+    "deploy": "git push heroku master"
   },
   "keywords": [],
   "author": "",
